@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gildniy
-- 👀 I’m interested in Coding + painting
+- 👀 I’m interested in Coding + Pencil drawing
 - 🌱 I’m currently learning AI (Deep Learning with Insects)
 - 💞️ I’m looking to collaborate on Kinyarwanda Translator project
 - 📫 How to reach me @gildniy
